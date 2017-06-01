@@ -1,0 +1,24 @@
+# Sample geometry in cm
+Sample height - 1.0
+Sample radius - 0.125
+
+# Sample boundaries
+Refractive index (at Z=0) - 1.0
+Refractive index (at Z=height) - 1.0
+Refractive index (at X^2 + Y^2 = R^2) - 1.3
+
+# Output filename
+Output casename - Set10_1
+
+# Material properties 
+Scattering coefficient - 175
+Chemical absorption coefficient - 0.4
+Background absorption coefficient - 0.1
+Scattering anisotropy - 0.9406
+Refractive index - 1.5
+No. of photons - 10000
+Total number of steps - 1000
+Weight threshold - 0.01
+Roulette constant - 10
+No. of segments - 10
+
